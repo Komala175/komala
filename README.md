@@ -13,7 +13,7 @@ public class Otp {
 	        System.out.print("Your new password is : ");
 	  	        String Capital_chars = "KOMALA";
 	        String Small_chars = "devi";
-	        String numbers = "9361556005";
+	        String numbers = "95345345435";
 	                String symbols = "!@#$5&*";
 	  
 	  
